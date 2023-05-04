@@ -106,19 +106,19 @@ header {
     background-color: rgb(71, 71, 71);
 }
 #project-1 {
-    background-image: url("./images/pexels-tranmautritam-58709.jpg");
+    background-image: url("../images/pexels-tranmautritam-58709.jpg");
     background-size: cover;
 }
 #project-2 {
-    background-image: url("./images/pexels-thirdman-7181184.jpg");
+    background-image: url("../images/pexels-thirdman-7181184.jpg");
     background-size: cover;
 }
 #project-3 {
-    background-image: url("./images/pexels-jessica-lewis-creative-583848.jpg");
+    background-image: url("../images/pexels-jessica-lewis-creative-583848.jpg");
     background-size: cover;
 }
 #project-4 {
-    background-image: url("./images/pexels-kaboompics-com-6599.jpg");
+    background-image: url("../images/pexels-kaboompics-com-6599.jpg");
     background-size: cover;
 }
 .sub-section {
@@ -160,7 +160,7 @@ header {
 #css {
     left: 100px;
     bottom: 80px;
-    background-image: url("./images/css.png") ;
+    background-image: url("../images/css.png") ;
     background-size: cover;
     background-color: aquamarine;
     box-shadow: -60px 60px 20px rgb(50 50 50 /15%);
@@ -174,7 +174,7 @@ header {
 #html {
     left: 250px;
     bottom: 240px;
-    background-image: url("./images/html-5\ \(2\).png") ;
+    background-image: url("../images/html-5\ \(2\).png") ;
     background-size: cover;
     background-color: green;
     box-shadow: -60px 60px 20px rgb(50 50 50 /15%);
@@ -203,7 +203,7 @@ header {
 #react {
     left: 350px;
     bottom: 30px;
-    background-image: url("./images/Daco_5245981.png") ;
+    background-image: url("../images/Daco_5245981.png") ;
     background-size: cover;
     background-color: blueviolet;
     box-shadow: -40px 40px 20px rgb(50 50 50 /15%);
@@ -217,7 +217,7 @@ header {
 #ruby {
     left: 20px;
     bottom: 250px;
-    background-image: url("./images/pngegg\ \(1\).png") ;
+    background-image: url("../images/pngegg\ \(1\).png") ;
     background-size: cover;
     background-color: greenyellow;
     box-shadow: -40px 40px 20px rgb(50 50 50 /15%);
